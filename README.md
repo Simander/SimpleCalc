@@ -1,4 +1,4 @@
 SimpleCalc
 ==========
 
-En enkel java kalkulator
+En enkel java kalkulator, ikke fullført
